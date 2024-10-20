@@ -2,7 +2,7 @@
     "name": "@msgmate-io/open-chat-typescript-client",
     "version": "1.0.0",
     "description": "Generate Open-Chat TS client",
-    "main": "api.ts",
+    "main": "index.ts",
     "author": "tbscode ( Tim Schupp )",
     "license": "NaN",
     "dependencies": {}
